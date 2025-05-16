@@ -1,0 +1,24 @@
+.navbar {
+    background-color: #d0000b;
+    padding: 3%;
+}
+
+.color {
+    color: #ffffff;
+    padding: 2%;
+    text-decoration: none;
+}
+
+.logo {
+    height: 35px;
+    margin-right: 5%;
+}
+
+.center {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.hus {
+    height: 500px;
+}
